@@ -3,7 +3,7 @@ language: ruby
 matrix:
   include:
     - os: osx
-      rvm: 1.9.3-p545
+      rvm: 1.9.3-p484
     - os: linux
       rvm: 2.2.2
     - os: linux
